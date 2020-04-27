@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.3"
+  },
+  "name": "assign7",
+  "version": "1.0.0",
+  "main": "ufc.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ufc.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
